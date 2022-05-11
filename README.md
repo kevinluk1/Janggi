@@ -4,6 +4,8 @@ Details about the rules and pieces can be found here: https://en.wikipedia.org/w
 Instructions
 
 Main Page
+![image](https://user-images.githubusercontent.com/71728686/167835822-2b7d80ff-b861-4af1-be23-2ff8b47bd5bb.png)
+
 
 At the start of the program:
 
